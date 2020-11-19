@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Class Thank You Website
-A thank-you website for the wonderful team that taught our class' data analytics & visualization bootcamp for 24 hard weeks!
+A thank you website for the wonderful team that taught our class' data analytics & visualization bootcamp for 24 hard weeks!
 https://github.com/sarahfawson/dartlings.git
 
 Template info...
@@ -72,6 +71,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
-=======
 
->>>>>>> 6e332a3bf7b3e1a42cec7b1960b3ac5f11625875

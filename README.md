@@ -1,6 +1,6 @@
 # Class Thank You Website
 A thank you website for the wonderful team that taught our class' data analytics & visualization bootcamp for 24 hard weeks!
-https://github.com/sarahfawson/dartlings.git
+https://www.sarahfawson.com/dartlings
 
 Template info...
 ## [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
